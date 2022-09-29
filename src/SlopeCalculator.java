@@ -25,4 +25,6 @@ public class SlopeCalculator
         value *= value;
         return value;
     }
+
+
 }
